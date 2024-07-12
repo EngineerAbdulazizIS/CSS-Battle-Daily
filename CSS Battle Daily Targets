@@ -1,0 +1,23 @@
+<p><a><p a><a>
+<style>
+*{
+  background:#243D83;
+  margin:0
+}
+  p,a{
+    position:fixed
+  }
+  p{
+    background:#6592CF;
+    padding:50+100
+  }
+  a{
+    padding:50+40;
+    margin:-50-40;
+    clip-path:polygon(100%0,0%0,50%100%)
+  }
+  [a]{
+    scale:-1;
+    margin:200
+  }
+</style>
